@@ -1,1 +1,1 @@
-# CodinigChallengeUnity
+# CodingChallengeUnity
